@@ -7,4 +7,4 @@ associating lncRNAs with diseases. The data includes already known disease
 associations as well as miRNA-disease associations and lncRNA-miRNA interactions.
 
 I translated the model into a python code with almost no changes in method to
-both test the reproducibility, to completely understand the model and to challenge myself.
+ test the reproducibility, to completely understand the model and to challenge myself.
